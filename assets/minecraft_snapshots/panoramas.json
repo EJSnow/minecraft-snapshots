@@ -1,0 +1,72 @@
+{
+	"classic": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/classic/panorama"
+			}
+		]
+	},
+	"classic_blur": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/classic_blur/panorama"
+			}
+		]
+	},
+	"ocean": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/ocean/panorama"
+			}
+		]
+	},
+	"bees": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/bees/panorama"
+			}
+		]
+	},
+	"village": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/village/panorama"
+			}
+		]
+	},
+	"hell": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/hell/panorama"
+			}
+		]
+	},
+	"caves": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/caves/panorama"
+			}
+		]
+	},
+	"caves_2": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/caves_2/panorama"
+			}
+		]
+	},
+	"wild": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/wild/panorama"
+			}
+		]
+	},
+	"trails_and_tales": {
+		"cubemaps": [
+			{
+				"cubemapId": "minecraft_snapshots:panoramas/trails_and_tales/panorama"
+			}
+		]
+	}
+}
