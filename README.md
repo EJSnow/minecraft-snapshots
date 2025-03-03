@@ -1,11 +1,24 @@
 # Minecraft Snapshots
-A resource pack, intended for use with the Vistas mod, to restore all previous splash screen images from older versions of Minecraft. It goes all the way from the original Minecraft classic panorama up to the Trails and Tales update (1.20).
-I wanted it, so here it is. It took me a couple hours in all to collect the resources and compile the resource pack. All images are *fairly* high-quality, except for the classic unblurred panorama. The images are pretty low-resolution, unfortunately. Nothing I can do about that.
-## Installation instructions
-This resource pack REQUIRES the [Vistas](https://modrinth.com/mod/vistas) mod to work! If you don't install Vistas, this resource pack will do absolutely nothing! (Even with that said, I KNOW some people are going to try to use this pack without Vistas. IT WON'T WORK. If you open an issue saying that it doesn't work, I will politely direct you to [this document](https://github.com/EJSnow/minecraft-snapshots/blob/main/FOR-IDIOTS.md) and close your issue. Please, read the instructions carefully.) To install (once you have [Vistas](https://modrinth.com/mod/vistas) installed):
-1. Download the latest version of this resource pack from the [releases](https://github.com/EJSnow/minecraft-snapshots/releases/latest) tab.
-2. Launch Minecraft, then go to Settings > Resource packs.
-3. Drag and drop the Minecraft Snapshots.zip file onto Minecraft. You'll be asked if you want to add it to Minecraft. Click Yes, and you should see it appear on the left side of your screen.
-4. Click the icon for Minecraft Snapshots to apply it. You will get a warning that it's made for an older version of Minecraft, just click Yes. (In this case, it won't matter.) Then click Done, and Minecraft will reload. Once it finishes loading, you will see a random background from every previous version of Minecraft on your splash screen when you boot up the game.
-## Credits and Licensing
-The blurred classic, Aquatic, Village and Pillage, Buzzy Bees, Nether, and Caves and Cliffs Pt 1 panoramas are taken from the [Blast to the Past.zip](https://drive.google.com/file/d/13HYHr_7rhxlNmkLMh390jujWaEv3CM-J/view?usp=sharing) resource pack by TerraformersMC. All other resources were downloaded from the [Minecraft Wiki](https://minecraft.fandom.com/wiki/Panorama). [Minecraft Snapshots](https://modrinth.com/resourcepack/minecraft-snapshots) © 2024 by [EJSnow](https://github.com/EJSnow) is licensed under CC BY-NC-SA 4.0
+every past Minecraft panorama, classic-1.20. At some point i should add the 1.21 and 1.21.4 panoramas, but i don't feel like it rn. made for the Vistas mod, won't work without it.
+
+## How to install
+1. you will need the [Vistas](https://modrinth.com/mod/vistas) mod installed in Minecraft, since a vanilla resource pack can only have one panorama. i listed the Vistas mod as a dependency on the releases to make it absolutely clear.
+2. just drop it in your `resourcepacks` folder like any other resource pack.
+3. after loading it, Vistas will choose a random panorama from the pack and show it on the title screen every time you launch the game.
+
+if you want to set a specific panorama instead, go into the config for the Vistas mod, and enter the id for the panorama you want:
+
+- classic unblurred: `minecraft_snapshots:classic`
+- classic blurred: `minecraft_snapshots:classic_blur`
+- update aquatic (1.13): `minecraft_snapshots:ocean`
+- village and pillage (1.14): `minecraft_snapshots:village`
+- buzzy bees (1.15): `minecraft_snapshots:bees`
+- nether (1.16): `minecraft_snapshots:nether`
+- caves & cliffs, pt 1 (1.17): `minecraft_snapshots:caves`
+- caves & cliffs, pt 2 (1.18): `minecraft_snapshots:caves_2`
+- the wild (1.19): `minecraft_snapshots:wild`
+- trails & tales (1.20): `minecraft_snapshots:trails_and_tales`
+- more coming Soon™
+
+## credits and licensing
+The blurred classic, aquatic, village and pillage, buzzy bees, nether, and caves and cliffs pt 1 panoramas are taken from the [Blast to the Past.zip](https://drive.google.com/file/d/13HYHr_7rhxlNmkLMh390jujWaEv3CM-J/view?usp=sharing) resource pack by TerraformersMC. all other resources were downloaded from the [Minecraft Wiki](https://minecraft.fandom.com/wiki/Panorama). Minecraft Snapshots © 2024 by [EJSnow](https://modrinth.com/user/EJSnow) is licensed under CC BY-NC-SA 4.0
