@@ -34,10 +34,10 @@
 			}
 		]
 	},
-	"hell": {
+	"nether": {
 		"cubemaps": [
 			{
-				"cubemapId": "minecraft_snapshots:panoramas/hell/panorama"
+				"cubemapId": "minecraft_snapshots:panoramas/nether/panorama"
 			}
 		]
 	},
