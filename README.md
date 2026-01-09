@@ -1,3 +1,6 @@
+# Update Jan 8, 2026
+I actually forgot this existed. I guess I might as well archive it since I don't really care about it anymore. It'll still be available to download but if you have problems don't expect help. AFAIK it should still work though.
+
 # Minecraft Snapshots
 every past Minecraft panorama, classic-1.20. At some point i should add the 1.21 and 1.21.4 panoramas, but i don't feel like it rn. made for the Vistas mod, won't work without it.
 
